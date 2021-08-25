@@ -1,5 +1,17 @@
 # react-user-list
 
+Check how this website works here >>> [react-user-list](https://slobodanstojkovic.github.io/react-user-list/)
+
+React User List is application created using React that pulls random user data from [Random User API](https://randomuser.me/)
+
+Technologies used for creating this app are React, JavaScript and AJAX.
+
+This project is created during BIT Frontend BootCamp.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
